@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "684dd0581218d463e28e1556"
+  },
+  "Name": "Apartamento Centro",
+  "Address": "Cra 10 #20-30",
+  "Price": {
+    "$numberDecimal": "350000000"
+  },
+  "CodeInternal": "APT001",
+  "Year": 2022,
+  "IdOwner": {
+    "$oid": "684dca135e3378cc529b37ca"
+  }
+},
+{
+  "_id": {
+    "$oid": "6851e45af36c4fec96f8c103"
+  },
+  "Name": "casa doral",
+  "Address": "casa 123",
+  "Price": {
+    "$numberDecimal": "1115"
+  },
+  "CodeInternal": "codigo",
+  "Year": 2025,
+  "IdOwner": {
+    "$oid": "684b93bde0760c78842c721c"
+  }
+}]

@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "684b93bde0760c78842c721c"
+  },
+  "name": "Carlos López",
+  "address": "Calle 123, Bogotá",
+  "photo": "https://ejemplo.com/foto.jpg",
+  "birthday": "1985-06-15T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "684ba246e0760c78842c7221"
+  },
+  "name": "brayan espitia",
+  "address": "Calle 123, cucuta",
+  "photo": "https://ejemplo.com/foto.jpg",
+  "birthday": "1985-06-15T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "684dc9a45e3378cc529b37c8"
+  },
+  "name": "string",
+  "address": "string",
+  "photo": "string",
+  "birthday": {
+    "$date": "2025-06-14T19:12:33.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684dc9cd5e3378cc529b37c9"
+  },
+  "name": "domino",
+  "address": "dominic",
+  "photo": "perro.jpg",
+  "birthday": {
+    "$date": "2025-06-14T19:12:33.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684dca135e3378cc529b37ca"
+  },
+  "name": "domino",
+  "address": "dominic",
+  "photo": "perro.jpg",
+  "birthday": {
+    "$date": "2025-06-14T19:12:33.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6851db563d62afbe62efebe7"
+  },
+  "name": "string",
+  "address": "string",
+  "photo": "string",
+  "birthday": {
+    "$date": "2025-06-17T21:17:04.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6851dc2c3d62afbe62efebe8"
+  },
+  "name": "David",
+  "address": "Calle 21",
+  "photo": "foto.com",
+  "birthday": {
+    "$date": "2025-06-12T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6851dd4ff36c4fec96f8c101"
+  },
+  "name": "David",
+  "address": "Calle 21",
+  "photo": "foto.com",
+  "birthday": {
+    "$date": "2025-06-12T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6851dd4ff36c4fec96f8c102"
+  },
+  "name": "David",
+  "address": "Calle 21",
+  "photo": "foto.com",
+  "birthday": {
+    "$date": "2025-06-12T05:00:00.000Z"
+  }
+}]
